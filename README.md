@@ -16,9 +16,11 @@ A sophisticated movie recommendation system built with Streamlit, featuring AI-p
 - **🎬 Rich Movie Details**: Trailers, cast information, ratings, and comprehensive metadata
 - **⚡ Performance Optimized**: Lazy loading, caching, and parallel API calls for fast response times
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-[Add screenshots of your application here]
+**[🚀 Try the Live Application](movie-recommender.meetgoel.de)**
+
+Experience CINEMATE in action! The application is fully deployed and ready to use.
 
 ## 🛠️ Tech Stack
 
