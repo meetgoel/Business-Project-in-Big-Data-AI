@@ -18,7 +18,7 @@ A sophisticated movie recommendation system built with Streamlit, featuring AI-p
 
 ## 🌐 Live Demo
 
-**[🚀 Try the Live Application](movie-recommender.meetgoel.de)**
+**[🚀 Try the Live Application]((https://movie-recommender.meetgoel.de/))**
 
 Experience CINEMATE in action! The application is fully deployed and ready to use.
 
