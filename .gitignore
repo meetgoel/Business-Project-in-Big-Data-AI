@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv
+
+# API Keys - CRITICAL!
+config.py
+.env
+*.env
+secrets.toml
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Data (uncomment if files are too large)
+# pickle/*.pkl
